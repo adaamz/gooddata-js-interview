@@ -1,0 +1,4 @@
+interface IMonthLocalization
+{
+    getMonthNames(): AllMonthsLocalization;
+}

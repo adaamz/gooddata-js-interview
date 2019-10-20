@@ -2,6 +2,10 @@
   "name": "gooddata-homework",
   "version": "0.1.0",
   "private": true,
+  "author": {
+    "name": "Adam Žurek",
+    "url": "https://github.com/adaamz"
+  },
   "dependencies": {
     "@gooddata/react-components": "6.2.0",
     "http-proxy-middleware": "0.19.1",
