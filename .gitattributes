@@ -1,0 +1,12 @@
+*.css eol=lf
+*.env eol=lf
+*.html eol=lf
+*.js eol=lf
+*.json eol=lf
+*.lock eol=lf
+*.md eol=lf
+*.scss eol=lf
+*.ts eol=lf
+*.tsx eol=lf
+*.txt eol=lf
+.git* eol=lf
